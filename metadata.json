@@ -1,0 +1,7 @@
+{
+  "name": "NexusOS",
+  "description": "A next-generation, glass-morphic web operating system featuring AI integration, physics-based window management, and a premium desktop experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
